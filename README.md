@@ -10,7 +10,7 @@ Python client voor de Ritense Coworker API.
 pip install git+ssh://git@github.com/mathijs-ritense/coworker-python-client.git
 ```
 
-## Gebruik
+## Gebruik 
 
 ```python
 from coworker import CoworkerClient
